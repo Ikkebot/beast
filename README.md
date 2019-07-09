@@ -2,6 +2,8 @@
 Visual music machine
 
 based on jit.gl.bfg and a bunch of glitch effects
+needs Max 8.06 for the jit.gl.bfg - object
+need the jit.mo Package installed for the jit.mo.time object
 
 written in/for MAX/Msp (vers.8)
 
